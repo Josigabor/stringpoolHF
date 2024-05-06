@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1714561930 source:c:\users\josig\onedrive\desktop\prog 2\stringpool\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1714561930 c:\users\josig\onedrive\desktop\prog 2\stringpool\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1715026006 source:c:\users\josig\onedrive\desktop\prog 2\stringpool\pool.cpp
+	<list>
+	<algorithm>
+	"memtrace.h"
+	"pool.h"
+
+1714669070 c:\users\josig\onedrive\desktop\prog 2\stringpool\pool.h
+	"memtrace.h"
+	"rstring.h"
+
+1714581063 c:\users\josig\onedrive\desktop\prog 2\stringpool\rstring.h
+	<cstdio>
+	"memtrace.h"
+
+1715027054 source:c:\users\josig\onedrive\desktop\prog 2\stringpool\test.cpp
+	<iostream>
+	"gtest_lite.h"
+	"memtrace.h"
+	"rstring.h"
+	"pool.h"
+
+1714561930 c:\users\josig\onedrive\desktop\prog 2\stringpool\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1714666549 source:c:\users\josig\onedrive\desktop\prog 2\stringpool\rstring.cpp
+	"memtrace.h"
+	"rstring.h"
+

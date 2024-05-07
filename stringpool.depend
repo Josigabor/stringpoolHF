@@ -67,3 +67,73 @@
 	"memtrace.h"
 	"rstring.h"
 
+1714561930 source:c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1714561930 c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1715095718 source:c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\rstring.cpp
+	"memtrace.h"
+	"rstring.h"
+	<string.h>
+
+1714581063 c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\rstring.h
+	<cstdio>
+	"memtrace.h"
+
+1715095087 source:c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\test.cpp
+	<iostream>
+	"gtest_lite.h"
+	"memtrace.h"
+	"rstring.h"
+	"pool.h"
+
+1714561930 c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1715095718 c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\pool.h
+	"memtrace.h"
+	"rstring.h"
+	<string.h>
+
+1715095304 source:c:\users\josig\onedrive\desktop\prog 2\stringpoolhf\pool.cpp
+	<list>
+	<algorithm>
+	"memtrace.h"
+	"pool.h"
+

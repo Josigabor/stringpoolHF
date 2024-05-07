@@ -13,12 +13,11 @@
 
 #include "memtrace.h"
 #include "rstring.h"
+#include <string.h>
 
 class StringPool {
     std::list<RString*> used;
     std::list<RString*> not_used;
-    size_t used_l;
-    size_t not_used_l;
   public:
     // Létrehoz obj_num db RString obejktumot,
     // melyek kapacitása init_cap méretű

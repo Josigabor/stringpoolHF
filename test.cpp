@@ -16,7 +16,7 @@
 #include "rstring.h"
 #include "pool.h"
 
-#define ELKESZULT 6
+#define ELKESZULT 14
 
 /* ELKESZULT makró:
     <= 4: RString tesztjei

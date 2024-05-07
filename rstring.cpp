@@ -9,7 +9,7 @@
 
 #include "memtrace.h"
 #include "rstring.h"
-
+#include <string.h>
     // Létrehoz a megadott kapacitással egy karaktertömböt
     // A tömb első helyére egy \0-t rak
     RString::RString(size_t capacity){
